@@ -8,12 +8,6 @@ const launchpadApps: LaunchpadData[] = [
     link: "https://oh-vue-icons.js.org"
   },
   {
-    id: "gungnir",
-    title: "Gungnir",
-    img: "img/icons/launchpad/gungnir.png",
-    link: "https://vuepress-theme-gungnir.vercel.app/"
-  },
-  {
     id: "cube",
     title: "Cube Solver",
     img: "img/icons/launchpad/cube.png",
