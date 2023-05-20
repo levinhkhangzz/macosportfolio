@@ -1,6 +1,10 @@
 {
-  "rewrites": [
-    { "source": "/(.*)", "destination": "/404.html" }
-  ],
-  "public": "public"
+  "public": "./",
+  "rewrites": [],
+  "redirects": [],
+  "cleanUrls": true,
+  "output": {
+    "root": "/",
+    "directory": "."
+  }
 }
