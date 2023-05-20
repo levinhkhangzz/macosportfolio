@@ -7,45 +7,45 @@ const websites: WebsitesData = {
       {
         id: "my-blog",
         title: "Website",
-        img: "https://zxh.io/img/avatar.jpg",
-        link: "https://zxh.io/",
+        img: "https://upanh.cf/bxqp4vy8er.jpg",
+        link: "https://levinhkhang.xyz",
         inner: true
       },
       {
         id: "my-github",
         title: "Github",
         img: "img/sites/github.svg",
-        link: "https://github.com/Renovamen"
+        link: "https://github.com/Rlevinhkhangzz"
       },
       {
         id: "my-linkedin",
         title: "Linkedin",
         img: "img/sites/linkedin.svg",
-        link: "https://www.linkedin.com/in/xiaohan-zou"
+        link: "https://www.linkedin.com"
       },
       {
         id: "my-google-scholar",
         title: "Scholar",
         img: "img/sites/google-scholar.svg",
-        link: "https://scholar.google.com/citations?user=RuW6xgMAAAAJ"
+        link: "https://scholar.google.com/citations?view_op=list_works&hl=en&user=wybPtuAAAAAJ"
       },
       {
-        id: "my-zhihu",
-        title: "知乎",
-        img: "img/sites/zhihu.jpeg",
-        link: "https://www.zhihu.com/people/chao-neng-gui-su"
+        id: "my-gmail",
+        title: "Gmail",
+        img: "https://th.bing.com/th/id/OIP.-sFo11bU-bZ_FI_aDHvLdAAAAA?pid=ImgDet&rs=1",
+        link: "mailto:levinhkhang631@gmail.com"
       },
       {
         id: "my-twitter",
         title: "Twitter",
         img: "img/sites/twitter.svg",
-        link: "https://www.twitter.com/renovamen_zxh"
+        link: "https://twitter.com/KhangLVnh594270"
       },
       {
         id: "my-email",
         title: "Email",
         img: "img/sites/gmail.svg",
-        link: "mailto:renovamenzxh@gmail.com"
+        link: "mailto:levinhkhang008@gmail.com"
       }
     ]
   },
