@@ -1,25 +1,29 @@
 import type { BearData } from "~/types";
 
 const bear: BearData[] = [
+  // Profile category
   {
     id: "profile",
     title: "Profile",
     icon: "i-fa-solid:paw",
     md: [
+      // About Me markdown
       {
         id: "about-me",
         title: "About Me",
         file: "markdown/about-me.md",
         icon: "i-la:dragon",
-        excerpt: "Hey there! I'm a dragon lost in human world..."
+        excerpt: "Hey there! I'm a dragon lost in the human world..."
       },
+      // Github Stats markdown
       {
         id: "github-stats",
         title: "Github Stats",
         file: "markdown/github-stats.md",
         icon: "i-icon-park-outline:github",
-        excerpt: "Here are some status about my github account..."
+        excerpt: "Here are some stats about my GitHub account..."
       },
+      // About This Site markdown
       {
         id: "about-site",
         title: "About This Site",
@@ -29,11 +33,13 @@ const bear: BearData[] = [
       }
     ]
   },
+  // Projects category
   {
     id: "project",
     title: "Projects",
     icon: "i-octicon:repo",
     md: [
+      // Portfolio macOS markdown
       {
         id: "portfolio-macos",
         title: "Portfolio macOS",
@@ -42,6 +48,7 @@ const bear: BearData[] = [
         excerpt: "My portfolio website simulating macOS's GUI...",
         link: "https://github.com/levinhkhangzz/playground-macos"
       },
+      // Oh, Vue Icons! markdown
       {
         id: "oh-vue-icons",
         title: "Oh, Vue Icons!",
@@ -50,12 +57,13 @@ const bear: BearData[] = [
         excerpt: "Importing icons from different icon packs in Vue easily...",
         link: "https://oh-vue-icons.js.org"
       },
+      // Cube Solver markdown
       {
         id: "cube-solver",
         title: "Cube Solver",
-        file: https://raw.githubusercontent.com/levinhkhangzz/Just-a-Cube/main/README.md",
+        file: "https://raw.githubusercontent.com/levinhkhangzz/Just-a-Cube/main/README.md",
         icon: "i-bx:cube",
-        excerpt: "A rubik's cube solver (layer-by-layer & two-phase)...",
+        excerpt: "A Rubik's Cube solver (layer-by-layer & two-phase)...",
         link: "https://cube.levinhkhang.xyz"
       }
     ]
